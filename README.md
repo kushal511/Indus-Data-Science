@@ -1,1 +1,1 @@
-# Indus-Data-Science
+# Indus-Data Science
